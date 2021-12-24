@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 0377E4A6
+/// @DnDArgument : "soundid" "snd_zap"
+/// @DnDSaveInfo : "soundid" "snd_zap"
+audio_play_sound(snd_zap, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 2FA407DE
